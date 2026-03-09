@@ -1,2 +1,3 @@
-read me
-nowa funkcja
+read me  
+kolejny edit  
+nowa funkcja  
